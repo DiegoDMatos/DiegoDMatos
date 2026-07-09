@@ -74,7 +74,7 @@ banco de dados e microsserviços.
 
 ### 📌 Projeto em destaque
 
-#### [DEPPI API](https://github.com/DiegoDMatos) — API REST para gerenciamento de cursos de extensão
+#### [DEPPI API](https://github.com/DiegoDMatos/deppi-extension-api) — API REST para gerenciamento de cursos de extensão
 
 API desenvolvida para o IFCE Campus Cedro, com **TypeScript, Node.js, Express, Prisma
 ORM, PostgreSQL, Docker, JWT, BCrypt, RBAC e Git**.
