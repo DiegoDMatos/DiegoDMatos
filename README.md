@@ -46,7 +46,7 @@ banco de dados e microsserviços.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- Modelagem relacional, normalização, índices e otimização de consultas (`EXPLAIN`)
+- Modelagem relacional, normalização, índices e otimização de consultas
 
 **Ferramentas & DevOps**
 
