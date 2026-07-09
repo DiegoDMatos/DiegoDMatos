@@ -41,11 +41,6 @@ banco de dados e microsserviços.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-**APIs & Segurança**
-
-- APIs REST · arquitetura MVC · camada de serviços · DTOs · validação de dados
-- Autenticação com **JWT**, hash de senhas com **BCrypt**, controle de acesso **RBAC**
-
 **Banco de Dados**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -60,6 +55,11 @@ banco de dados e microsserviços.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+
+**APIs & Segurança**
+
+- APIs REST · arquitetura MVC · camada de serviços · DTOs · validação de dados
+- Autenticação com **JWT**, hash de senhas com **BCrypt**, controle de acesso **RBAC**
 
 ---
 
