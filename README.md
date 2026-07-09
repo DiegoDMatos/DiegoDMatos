@@ -77,7 +77,6 @@ ORM, PostgreSQL, Docker, JWT, BCrypt, RBAC e Git**.
 > arquitetura em camadas, desenvolvimento de APIs REST, segurança, modelagem de dados
 > e boas práticas de organização de código.
 
-*(Atualize o link acima com a URL real do repositório.)*
 
 ---
 
