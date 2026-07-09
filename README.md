@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Diego 👋</h1>
 
-<h3 align="center">Desenvolvedor Backend Java | Spring Boot | APIs REST</h3>
+<h3 align="center">Desenvolvedor Backend Java | Spring Boot | APIs REST | SQL</h3>
 
 <p align="center">
   Estudante de Sistemas de Informação (5º semestre) em busca de oportunidade como
@@ -31,20 +31,25 @@ banco de dados e microsserviços.
 
 ### 🛠️ Stack e Ferramentas
 
-**Backend & APIs**
+**Java & Ecossistema Spring**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Spring Web](https://img.shields.io/badge/Spring%20Web-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+**APIs & Segurança**
+
+- APIs REST · arquitetura MVC · camada de serviços · DTOs · validação de dados
+- Autenticação com **JWT**, hash de senhas com **BCrypt**, controle de acesso **RBAC**
 
 **Banco de Dados**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+- Modelagem relacional, normalização, índices e otimização de consultas (`EXPLAIN`)
 
 **Ferramentas & DevOps**
 
@@ -53,10 +58,17 @@ banco de dados e microsserviços.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-**Conceitos aplicados:** arquitetura MVC, camada de serviços, DTOs, validação de dados,
-JWT, BCrypt, RBAC.
+<details>
+<summary><b>Conhecimentos complementares</b> (fora do ecossistema Java)</summary>
+<br>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+</details>
 
 ---
 
@@ -76,6 +88,7 @@ ORM, PostgreSQL, Docker, JWT, BCrypt, RBAC e Git**.
 > arquitetura em camadas, desenvolvimento de APIs REST, segurança, modelagem de dados
 > e boas práticas de organização de código.
 
+*(Atualize o link acima com a URL real do repositório.)*
 
 ---
 
