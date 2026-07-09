@@ -56,8 +56,7 @@ banco de dados e microsserviços.
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 **Conceitos aplicados:** arquitetura MVC, camada de serviços, DTOs, validação de dados,
-JWT, BCrypt, RBAC, modelagem relacional, normalização, índices e otimização de
-consultas (EXPLAIN).
+JWT, BCrypt, RBAC.
 
 ---
 
